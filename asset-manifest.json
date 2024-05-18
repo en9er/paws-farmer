@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/paws-farmer/static/css/main.b692a0ef.css",
-    "main.js": "/paws-farmer/static/js/main.36ef9510.js",
+    "main.css": "/paws-farmer/static/css/main.102a3799.css",
+    "main.js": "/paws-farmer/static/js/main.b2d36448.js",
     "static/js/453.c9bd4779.chunk.js": "/paws-farmer/static/js/453.c9bd4779.chunk.js",
     "index.html": "/paws-farmer/index.html",
-    "main.b692a0ef.css.map": "/paws-farmer/static/css/main.b692a0ef.css.map",
-    "main.36ef9510.js.map": "/paws-farmer/static/js/main.36ef9510.js.map",
+    "main.102a3799.css.map": "/paws-farmer/static/css/main.102a3799.css.map",
+    "main.b2d36448.js.map": "/paws-farmer/static/js/main.b2d36448.js.map",
     "453.c9bd4779.chunk.js.map": "/paws-farmer/static/js/453.c9bd4779.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b692a0ef.css",
-    "static/js/main.36ef9510.js"
+    "static/css/main.102a3799.css",
+    "static/js/main.b2d36448.js"
   ]
 }
